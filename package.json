@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "badge-maker": "^4.0.0",
+    "inquirer": "^8.2.4"
+  },
+  "name": "challenge09",
+  "version": "1.0.0",
+  "description": "this repository creates a command line app to create a professional README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
